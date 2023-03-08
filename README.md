@@ -1,6 +1,6 @@
 # My Tableau Public Profile
 
-This repository contains links to all the visuals I've created on Tableau Public. 
+This repository contains link to all the visuals I've created on Tableau Public. 
 You can find my Tableau Public profile [here](https://public.tableau.com/app/profile/sanidhya.negi).
 
 ## About Me
